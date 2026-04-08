@@ -108,8 +108,6 @@
 
 ### 🎯 GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adrishikhar&rank_icon=github&theme=vision-friendly-dark" alt="GitHub Metrics" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrishikhar&theme=vision-friendly-dark" alt="Activity Overview" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
 </p>
-
----
