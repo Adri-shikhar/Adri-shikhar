@@ -81,25 +81,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrishikhar&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
----
-
-<div align="center">
-  <b>📍 Chattogram, Bangladesh 🇧🇩</b><br>
-  <em>"Focusing on the craft of clean code and seamless user experiences."</em>
-</div>
-
----
 
 ### 📈 Activity Graph
 <p align="center">
