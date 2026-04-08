@@ -31,11 +31,13 @@ Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Banglad
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrishikhar&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrishikhar&show_icons=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Adrishikhar's GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrishikhar&theme=vision-friendly-dark&hide_border=true" alt="Adrishikhar's GitHub streak" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 📫 Let's Connect
 
