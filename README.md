@@ -1,6 +1,6 @@
-# 🚀 Front-End Developer | React Enthusiast
+# 🚀 Front-End Developer | React Specialist
 
-Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Bangladesh. I specialize in building responsive, high-performance web applications and am currently honing my expertise in the modern JavaScript ecosystem.
+Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Bangladesh. I specialize in building responsive, user-centric web applications and am currently honing my expertise in the modern JavaScript ecosystem.
 
 ---
 
@@ -21,18 +21,18 @@ Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Banglad
 
 ### 🔭 Current Focus
 
-* **Advanced React:** Mastering Hooks, Context API, and state management.
+* **Advanced React:** Mastering Hooks, Context API, and state management via Programming Hero.
 * **Performance:** Optimizing web apps for speed and accessibility.
-* **Cybersecurity:** Understanding web vulnerabilities and secure authentication practices.
-* **Programming Hero:** Completing hands-on assignments and industry-standard milestones.
+* **Cybersecurity:** Exploring secure authentication practices and hardening web apps.
+* **Computer Vision:** Developing intelligent models for real-world traffic analysis.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-friendly-dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrishikhar&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrishikhar&show_icons=true&theme=vision-friendly-dark" />
 </p>
 
 ---
