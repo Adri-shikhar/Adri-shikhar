@@ -98,3 +98,18 @@
   <b>📍 Chattogram, Bangladesh 🇧🇩</b><br>
   <em>"Focusing on the craft of clean code and seamless user experiences."</em>
 </div>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrishikhar&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+### 🎯 GitHub Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adrishikhar&rank_icon=github&theme=vision-friendly-dark" alt="GitHub Metrics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrishikhar&theme=vision-friendly-dark" alt="Activity Overview" />
+</p>
+
+---
