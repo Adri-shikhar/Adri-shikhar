@@ -1,8 +1,27 @@
-# 🚀 Front-End Developer | React Specialist
+<div align="center">
 
-Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Bangladesh. I specialize in building responsive, user-centric web applications and am currently honing my expertise in the modern JavaScript ecosystem.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Adrishikhar&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+# 🚀 Adrishikhar Barua
+### Front-End Developer | React Specialist
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+👋;Nice+to+meet+you!;Front-End+Developer;Building+secure+and+modern+web+apps.)](https://git.io/typing-svg)
 
 ---
+
+**Expert in JavaScript, React.js, and Vite | Crafting High-Performance User Interfaces 🌐 | Cybersecurity & Computer Vision Enthusiast 🛡️**
+
+<p align="center">
+  <a href="mailto:adrishikharbarua77452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+</div>
 
 ### 💻 Tech Stack & Tools
 
@@ -21,6 +40,8 @@ Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Banglad
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
 ### 🔭 Current Focus
 
 * **Advanced React:** Mastering Hooks, Context API, and state management via Programming Hero.
@@ -33,17 +54,21 @@ Hi! I'm **Adrishikhar Barua**, a passionate Front-End Developer based in Banglad
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Adrishikhar's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrishikhar&theme=vision-friendly-dark&hide_border=true" alt="Adrishikhar's GitHub streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adrishikhar&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
+
+---
+
 ### 📫 Let's Connect
 
-* **Email:** [adrishikharbarua77452@gmail.com](mailto:adrishikharbarua77452@gmail.com)
 * **Location:** Chattogram, Bangladesh 🇧🇩
 * **Status:** Open to collaboration on front-end projects and web security research.
 
-*"Focusing on the craft of clean code and seamless user experiences."*
+<div align="center">
+  <em>"Focusing on the craft of clean code and seamless user experiences."</em>
+</div>
