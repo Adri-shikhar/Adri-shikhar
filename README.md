@@ -5,7 +5,7 @@
 </p>
 
 # 🚀 Adrishikhar Barua
-### Front-End Developer | React Specialist
+### Front-End Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+👋;Nice+to+meet+you!;Front-End+Developer;Building+secure+and+modern+web+apps.)](https://git.io/typing-svg)
 
