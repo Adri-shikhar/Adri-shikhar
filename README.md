@@ -41,6 +41,45 @@
 </p>
 
 ---
+---
+
+### ⚡ Talking about Personal Stuff:
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🛠️ I’m currently working with <b>React, Vite, JavaScript, and Tailwind CSS</b>.</li>
+        <li>🚀 I’m currently exploring <b>Cybersecurity, YOLOv8, and Python Backend</b>.</li>
+        <li>💬 Ask me about <b>Front-end development or Traffic Detection models</b>.</li>
+        <li>📫 Reach me out: <a href="mailto:adrishikharbarua77452@gmail.com"><b>adrishikharbarua77452@gmail.com</b></a></li>
+      </ul>
+      <br>
+      <h3>My Absolute Favorites:</h3>
+      <ul>
+        <li>💻 I love exploring new technologies and building cool stuff.</li>
+        <li>🍕 Programming Hero, Tech Communities & Hackathons.</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adrishikhar&repo=Dhaka-Traffic-Detection&theme=vision-friendly-dark" alt="Featured Project" />
+      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Let's Connect & Collaborate
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrishikhar Barua" height="30" width="40" /></a>
+<a href="https://fb.com/YOUR-FACEBOOK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrishikhar" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR-INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrishikhar" height="30" width="40" /></a>
+</p>
+
+---
 
 ### 🔭 Current Focus
 
