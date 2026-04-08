@@ -15,8 +15,8 @@
 
 <p align="center">
   <a href="mailto:adrishikharbarua77452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adri-shikhar-barua/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adri-shikhar-barua/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,7 +41,6 @@
 </p>
 
 ---
----
 
 ### ⚡ Talking about Personal Stuff:
 
@@ -52,6 +51,7 @@
         <li>🛠️ I’m currently working with <b>React, Vite, JavaScript, and Tailwind CSS</b>.</li>
         <li>🚀 I’m currently exploring <b>Cybersecurity, YOLOv8, and Python Backend</b>.</li>
         <li>💬 Ask me about <b>Front-end development or Traffic Detection models</b>.</li>
+        <li>🔭 <b>Current Focus:</b> Mastering Hooks and State Management via Programming Hero.</li>
         <li>📫 Reach me out: <a href="mailto:adrishikharbarua77452@gmail.com"><b>adrishikharbarua77452@gmail.com</b></a></li>
       </ul>
       <br>
@@ -74,19 +74,10 @@
 ### 🌐 Let's Connect & Collaborate
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrishikhar Barua" height="30" width="40" /></a>
-<a href="https://fb.com/YOUR-FACEBOOK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrishikhar" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrishikhar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adri-shikhar-barua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrishikhar Barua" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrishikhar" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrishikhar" height="30" width="40" /></a>
 </p>
-
----
-
-### 🔭 Current Focus
-
-* **Advanced React:** Mastering Hooks, Context API, and state management via Programming Hero.
-* **Performance:** Optimizing web apps for speed and accessibility.
-* **Cybersecurity:** Exploring secure authentication practices and hardening web apps.
-* **Computer Vision:** Developing intelligent models for real-world traffic analysis.
 
 ---
 
@@ -103,11 +94,7 @@
 
 ---
 
-### 📫 Let's Connect
-
-* **Location:** Chattogram, Bangladesh 🇧🇩
-* **Status:** Open to collaboration on front-end projects and web security research.
-
 <div align="center">
+  <b>📍 Chattogram, Bangladesh 🇧🇩</b><br>
   <em>"Focusing on the craft of clean code and seamless user experiences."</em>
 </div>
