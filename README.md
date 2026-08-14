@@ -1,116 +1,121 @@
-<div align="center">
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  FIG. 01  ·  OPERATOR PROFILE                                SHEET 01 / 03  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│   ADRISHIKHAR BARUA                                SCOPE                    │
+│   ├───────────────┤                                ├── FRONTEND             │
+│   FULL-STACK ENGINEER                              ├── BACKEND              │
+│                                                    └── DATABASE             │
+│   CSE UNDERGRAD · IIUC · CHITTAGONG, BD                                     │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  @ADRI-SHIKHAR                                 SCALE 1:1     REV 2026.08    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adri-shikhar&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+> **GENERAL NOTES**
+> 1. Full-stack engineer. CSE undergrad at International Islamic University Chittagong.
+> 2. Builds role-based web platforms &mdash; identity, payments, dashboards, live state.
+> 3. This sheet is drawn by hand. No badge services, no generators, no third-party cards.
 
-# 🚀 Adrishikhar Barua
-### Full Stack Engineer 
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  FIG. 02  ·  CAPABILITY MATRIX                               SHEET 02 / 03  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  LANGUAGE      TypeScript · JavaScript · Python · C++ · HTML5 · CSS3        │
+│                                                                             │
+│  FRAMEWORK     Next.js 16 (App Router, Server Components, Server Actions)   │
+│                React 19 · Node.js · Express.js                              │
+│                                                                             │
+│  INTERFACE     Tailwind CSS 4 · HeroUI · DaisyUI · Flowbite React           │
+│                Framer Motion · Swiper · Vite · responsive + dark mode       │
+│                                                                             │
+│  DATA          MongoDB · Mongoose · Prisma · SQLite · Firebase              │
+│                                                                             │
+│  IDENTITY      Better Auth · Firebase Auth · Google OAuth                   │
+│                role-based access control · protected routes                 │
+│                                                                             │
+│  PAYMENT       Stripe Checkout · bKash                                      │
+│                credit ledger · pending holds · auto-refund                  │
+│                                                                             │
+│  TOOLING       Git · GitHub · Vercel · Postman · VS Code · imgBB            │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ALSO          700+ problems solved on Codeforces  ·  DSA in C++            │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+👋;Nice+to+meet+you!;Full+Stack+Engineer;Building+secure+and+modern+web+apps.)](https://git.io/typing-svg)
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  FIG. 03  ·  SYSTEM ARCHITECTURE / TYPICAL BUILD             SHEET 03 / 03  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│ ┌──────────────────┐       ┌───────────────────┐        ┌─────────────────┐ │
+│ │ A · PRESENTATION │       │ B · APPLICATION   │        │ C · PERSISTENCE │ │
+│ ├──────────────────┤ write ├───────────────────┤  read  ├─────────────────┤ │
+│ │ CLIENT           │ ────> │ SERVER            │  ────> │ STORE           │ │
+│ │ Next.js 16       │       │ Server Actions    │        │ MongoDB         │ │
+│ │ React 19         │       │ Route Handlers    │        │ Mongoose        │ │
+│ │ Tailwind 4       │       │ Express.js        │        │ Prisma / SQLite │ │
+│ └────────┬─────────┘       └─────────┬─────────┘        └─────────────────┘ │
+│          │                           │                                      │
+│          └─────────────┬─────────────┘                                      │
+│                        │                                                    │
+│                 ┌──────┴────────┐                                           │
+│                 │ CROSS-CUTTING │  Better Auth · Stripe · bKash             │
+│                 └───────────────┘                                           │
+│                                                                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  DEPLOY        Vercel  ·  serverless functions  ·  edge runtime             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
----
+## `FIG. 04` &mdash; PROJECT SCHEDULE
 
-**Building production-ready Next.js and MERN applications | Crafting High-Performance User Interfaces 🌐 | Cybersecurity & AI Enthusiast 🛡️**
+| REF | ASSEMBLY | FUNCTION | DRAWINGS |
+|:---|:---|:---|:---|
+| **P&#8209;01** | **TICKIFY**<br><sub>`Next.js 16` `React 19` `MongoDB` `Stripe`</sub> | Multi-vendor travel ticketing across bus, train, launch and flight. Three role surfaces: customers book and track transactions, vendors post trips and watch revenue, admins gate approvals. Server Actions end to end, Better Auth for identity, Stripe for checkout. | [live](https://tickify-psi.vercel.app) &middot; [client](https://github.com/Adri-shikhar/tickify) &middot; [server](https://github.com/Adri-shikhar/tickify-server) |
+| **P&#8209;02** | **FUNDSPRING**<br><sub>`Next.js 16` `TypeScript` `Firebase` `Stripe`</sub> | Credit-based crowdfunding. Pledges are *held*, not spent &mdash; creators approve or reject, and rejected pledges auto-refund to the backer's balance. Withdrawals clear at a 200-credit floor against a 20:1 USD rate. Supporter, creator and admin dashboards, each role-guarded. | [repo](https://github.com/Adri-shikhar/crowfunding-platform) |
+| **P&#8209;03** | **MEDIQUEUE**<br><sub>`Next.js 16` `Express` `MongoDB` `Better Auth`</sub> | Tutor discovery and session booking. Availability is a live counter &mdash; slots decrement on booking and restore on cancellation, so two students can't claim the same hour. Separate tutor and student dashboards over an Express/MongoDB service. | [live](https://mediqueue-tutor-booking-system.vercel.app) &middot; [client](https://github.com/Adri-shikhar/mediqueue_tutor_booking_system) &middot; [server](https://github.com/Adri-shikhar/mediqueue_server) |
 
-<p align="center">
-  <a href="mailto:adrishikharbarua77452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adri-shikhar-barua/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adri-shikhar-barua/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
----
-
-</div>
-
-### 💻 Tech Stack & Tools
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Frontend Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### ⚡ Talking about Personal Stuff:
+## `FIG. 05` &mdash; INDEX OF ADDITIONAL SHEETS
 
 <table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🛠️ I’m currently building with <b>Next.js, TypeScript, React, and the MERN stack</b>.</li>
-        <li>🚀 I’m currently exploring <b>AI-enhanced web platforms and scalable backends</b>.</li>
-        <li>💬 Ask me about <b>Full-stack development, modern UI libraries (HeroUI/DaisyUI), or Competitive Programming</b>.</li>
-        <li>🔭 <b>Current Focus:</b> Architecting robust, secure user-centric applications.</li>
-        <li>📫 Reach me out: <a href="mailto:adrishikharbarua77452@gmail.com"><b>adrishikharbarua77452@gmail.com</b></a></li>
-      </ul>
-      <br>
-      <h3>My Absolute Favorites:</h3>
-      <ul>
-        <li>💻 Solving complex problems on Codeforces (700+ solved!).</li>
-        <li>🍕 Tech Communities, Hackathons, and exploring new web technologies.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adri-shikhar&repo=Dhaka-Traffic-Detection&theme=vision-friendly-dark" alt="Featured Project" />
-      <br>
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+**WANDERLUST**<br>
+<sub>Travel platform &middot; MERN</sub><br>
+[live](https://wanderlust-client-4ghv.vercel.app) &middot; [repo](https://github.com/Adri-shikhar/wanderlust-client)
+
+</td>
+<td width="33%" valign="top">
+
+**SKILLSPHERE**<br>
+<sub>Learning platform &middot; Next.js</sub><br>
+[live](https://skillsphere-learning-platform.vercel.app) &middot; [repo](https://github.com/Adri-shikhar/skillsphere-learning-platform)
+
+</td>
+<td width="33%" valign="top">
+
+**HIRELOOP**<br>
+<sub>Hiring platform &middot; Next.js</sub><br>
+[client](https://github.com/Adri-shikhar/hireloop_client) &middot; [server](https://github.com/Adri-shikhar/hireloop_server)
+
+</td>
+</tr>
 </table>
 
----
+## `FIG. 06` &mdash; TITLE BLOCK
 
-### 🌐 Let's Connect & Collaborate
+| FIELD | VALUE |
+|:---|:---|
+| **EMAIL** | [adrishikharbarua77452@gmail.com](mailto:adrishikharbarua77452@gmail.com) |
+| **LINKEDIN** | [/in/adri-shikhar-barua](https://www.linkedin.com/in/adri-shikhar-barua/) |
+| **CODEFORCES** | [700+ problems solved](https://codeforces.com/profile/YOUR_HANDLE) |
+| **LOCATION** | Chittagong, Bangladesh |
+| **STATUS** | Open to internships and freelance work |
 
-<p align="left">
-<a href="https://www.linkedin.com/in/adri-shikhar-barua/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adrishikhar Barua" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrishikhar" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrishikhar" height="30" width="40" /></a>
-</p>
-
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-shikhar&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-### 🎯 GitHub Metrics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adri-shikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adri-shikhar&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adri-shikhar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<sub>`SHEET 03/03`&nbsp;&nbsp;&middot;&nbsp;&nbsp;`SCALE 1:1`&nbsp;&nbsp;&middot;&nbsp;&nbsp;`REV 2026.08`</sub>
