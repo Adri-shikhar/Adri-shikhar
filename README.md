@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adrishikhar&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Adri-shikhar&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 # 🚀 Adrishikhar Barua
@@ -62,7 +62,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adrishikhar&repo=Dhaka-Traffic-Detection&theme=vision-friendly-dark" alt="Featured Project" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adri-shikhar&repo=Dhaka-Traffic-Detection&theme=vision-friendly-dark" alt="Featured Project" />
       <br>
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
     </td>
@@ -83,11 +83,11 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrishikhar&theme=react-dark&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-shikhar&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ### 🎯 GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adri-shikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri-shikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
 </p>
