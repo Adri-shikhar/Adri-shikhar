@@ -11,7 +11,7 @@
 
 ---
 
-**Expert in JavaScript, React.js, and Vite | Crafting High-Performance User Interfaces 🌐 | Cybersecurity & Computer Vision Enthusiast 🛡️**
+**Building production-ready Next.js and MERN applications | Crafting High-Performance User Interfaces 🌐 | Cybersecurity & AI Enthusiast 🛡️**
 
 <p align="center">
   <a href="mailto:adrishikharbarua77452@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -25,19 +25,38 @@
 
 ### 💻 Tech Stack & Tools
 
-**Core Frontend**
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Exploration & Security**
+**Frontend Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -48,21 +67,21 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🛠️ I’m currently working with <b>React, Vite, JavaScript, and Tailwind CSS</b>.</li>
-        <li>🚀 I’m currently exploring <b>Cybersecurity, YOLOv8, and Python Backend</b>.</li>
-        <li>💬 Ask me about <b>Full-stack development or Traffic Detection models</b>.</li>
-        <li>🔭 <b>Current Focus:</b> Mastering Hooks and State Management via Programming Hero.</li>
+        <li>🛠️ I’m currently building with <b>Next.js, TypeScript, React, and the MERN stack</b>.</li>
+        <li>🚀 I’m currently exploring <b>AI-enhanced web platforms and scalable backends</b>.</li>
+        <li>💬 Ask me about <b>Full-stack development, modern UI libraries (HeroUI/DaisyUI), or Competitive Programming</b>.</li>
+        <li>🔭 <b>Current Focus:</b> Architecting robust, secure user-centric applications.</li>
         <li>📫 Reach me out: <a href="mailto:adrishikharbarua77452@gmail.com"><b>adrishikharbarua77452@gmail.com</b></a></li>
       </ul>
       <br>
       <h3>My Absolute Favorites:</h3>
       <ul>
-        <li>💻 I love exploring new technologies and building cool stuff.</li>
-        <li>🍕 Programming Hero, Tech Communities & Hackathons.</li>
+        <li>💻 Solving complex problems on Codeforces (700+ solved!).</li>
+        <li>🍕 Tech Communities, Hackathons, and exploring new web technologies.</li>
       </ul>
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adri-shikhar&repo=Dhaka-Traffic-Detection&theme=vision-friendly-dark" alt="Featured Project" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adri-shikhar&repo=Dhaka-Traffic-Detection&theme=vision-friendly-dark" alt="Featured Project" />
       <br>
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
     </td>
@@ -88,6 +107,10 @@
 
 ### 🎯 GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adri-shikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adri-shikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adri-shikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adri-shikhar&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adri-shikhar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
