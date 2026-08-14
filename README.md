@@ -5,9 +5,9 @@
 </p>
 
 # 🚀 Adrishikhar Barua
-### Front-End Developer 
+### Full Stack Engineer 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+👋;Nice+to+meet+you!;Front-End+Developer;Building+secure+and+modern+web+apps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+There!+👋;Nice+to+meet+you!;Full+Stack+Engineer;Building+secure+and+modern+web+apps.)](https://git.io/typing-svg)
 
 ---
 
@@ -50,7 +50,7 @@
       <ul>
         <li>🛠️ I’m currently working with <b>React, Vite, JavaScript, and Tailwind CSS</b>.</li>
         <li>🚀 I’m currently exploring <b>Cybersecurity, YOLOv8, and Python Backend</b>.</li>
-        <li>💬 Ask me about <b>Front-end development or Traffic Detection models</b>.</li>
+        <li>💬 Ask me about <b>Full-stack development or Traffic Detection models</b>.</li>
         <li>🔭 <b>Current Focus:</b> Mastering Hooks and State Management via Programming Hero.</li>
         <li>📫 Reach me out: <a href="mailto:adrishikharbarua77452@gmail.com"><b>adrishikharbarua77452@gmail.com</b></a></li>
       </ul>
@@ -81,8 +81,6 @@
 
 ---
 
-
-
 ### 📈 Activity Graph
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adrishikhar&theme=react-dark&area=true&hide_border=true" />
@@ -90,6 +88,6 @@
 
 ### 🎯 GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adrishikhar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Metrics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrishikhar&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Activity Overview" />
 </p>
