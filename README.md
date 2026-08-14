@@ -172,10 +172,16 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adri-shikhar&theme=react-dark&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-### 🔥 Contribution Streak
+### 🔥 By The Numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adri-shikhar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contributions-600-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Total contributions" />
+  <img src="https://img.shields.io/badge/Longest_Streak-12_days-1f8ecd?style=for-the-badge&logo=github&logoColor=white" alt="Longest streak" />
+  <img src="https://img.shields.io/badge/Public_Repos-28-36BCF7?style=for-the-badge&logo=git&logoColor=white" alt="Public repositories" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-700%2B_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces problems solved" />
+  <img src="https://img.shields.io/badge/On_GitHub_Since-2022-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="On GitHub since 2022" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" />
